@@ -13,7 +13,7 @@
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
     "request": "^2.88.2",
-    "uuid": "^9.0.1"
+    "uuid": "^11.1.1"
   },
   "devDependencies": {
     "node-sass": "^7.0.3",
