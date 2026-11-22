@@ -1,0 +1,5 @@
+@import "theme";
+
+.card /deep/ .title {
+  color: $primary;
+}
