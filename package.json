@@ -16,7 +16,7 @@
     "uuid": "^9.0.1"
   },
   "devDependencies": {
-    "node-sass": "^7.0.3",
+    "sass": "^1.108.2",
     "sass-loader": "^7.1.0",
     "webpack": "^4.47.0"
   }
